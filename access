@@ -25,3 +25,18 @@
     "Subscribed": "price True"
   }
 ]
+
+
+[
+  {
+    "Name": "master"
+  },
+  {
+    "Month_End": "1 May",
+    "Month_start": "1 April"
+  },
+  {
+    "Amount" : 9000,
+    "Subscribed": "master True"
+  }
+]
