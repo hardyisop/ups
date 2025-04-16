@@ -40,3 +40,17 @@
     "Subscribed": "master True"
   }
 ]
+
+[
+  {
+    "Name": "man of action"
+  },
+  {
+    "Month_End": "16 May",
+    "Month_start": "16 April"
+  },
+  {
+    "Amount" : 6300,
+    "Subscribed": "man of action True"
+  }
+]
